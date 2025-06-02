@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "767115413215",
+    "firebase_url": "https://ai-image-generator-8fb5d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ai-image-generator-8fb5d",
+    "storage_bucket": "ai-image-generator-8fb5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767115413215:android:c93d2663a35fb241d64b6a",
+        "android_client_info": {
+          "package_name": "com.ai.prompt.image"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwwO1iqDAfHPrE5wf56ltve-CQtdWPpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
